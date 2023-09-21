@@ -125,7 +125,7 @@ button:hover{
 }
 @media (max-width:600px) {
     body{
-        height:1200px;
+        height:1000px;
     }
     .container{
         width: 350px;
