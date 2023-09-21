@@ -124,6 +124,9 @@ button:hover{
     background: var(--Very-dark-blue);
 }
 @media (max-width:600px) {
+    body{
+        height:1200px;
+    }
     .container{
         width: 350px;
         height: 85%;
