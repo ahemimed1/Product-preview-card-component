@@ -124,6 +124,10 @@ button:hover{
     background: var(--Very-dark-blue);
 }
 @media (max-width:600px) {
+    .attribution {
+      position: absolute;
+      bottom: 5px
+    }
     body{
         height:850px;
     }
