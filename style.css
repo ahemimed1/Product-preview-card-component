@@ -125,12 +125,14 @@ button:hover{
 }
 @media (max-width:600px) {
     body{
-        height:850px;
-        position:relative;
+    height: 772px;
+    position: relative;
+    justify-content: space-between;
+    flex-direction: column;
     }
     .container{
         width: 350px;
-        height:650px;
+        height:750px;
         flex-direction: column;
     }
     .container > div{
