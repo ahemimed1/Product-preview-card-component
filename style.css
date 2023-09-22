@@ -125,10 +125,7 @@ button:hover{
 }
 @media (max-width:600px) {
     .attribution {
-    position: absolute;
-    bottom: 10px;
-    font-size: 11px;
-    text-align: center;
+    display:none;
 }
     body{
     height: 772px;
